@@ -29,11 +29,13 @@ Fully synthesizable HDL code
 
  Supported Operations
 Opcode	Operation
+
 000	ADD
 001	SUB
 010	AND
 011	OR
 100	XOR
+
  Inputs and Outputs
 Inputs
 
